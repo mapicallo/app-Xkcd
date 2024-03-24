@@ -1,2 +1,3 @@
 # app-Xkcd
-Simple app Android , Java , get webComic API using retrofit
+Simple example app Android , Java , get webComic API using retrofit
+
